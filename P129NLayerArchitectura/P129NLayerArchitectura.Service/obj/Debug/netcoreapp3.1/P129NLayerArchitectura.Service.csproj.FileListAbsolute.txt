@@ -1,0 +1,15 @@
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.deps.json
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.csproj.CopyComplete
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Service\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Service.pdb

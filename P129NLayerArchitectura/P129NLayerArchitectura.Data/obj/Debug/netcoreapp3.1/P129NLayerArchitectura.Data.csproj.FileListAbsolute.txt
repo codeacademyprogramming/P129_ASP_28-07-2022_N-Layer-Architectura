@@ -1,0 +1,16 @@
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.deps.json
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.runtimeconfig.json
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.runtimeconfig.dev.json
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.csproj.CopyComplete
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Data\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Data.genruntimeconfig.cache

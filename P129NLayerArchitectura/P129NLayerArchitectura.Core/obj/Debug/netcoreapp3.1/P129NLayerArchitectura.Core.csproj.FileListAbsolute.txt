@@ -1,0 +1,10 @@
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.deps.json
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\bin\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.pdb
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.csproj.AssemblyReference.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.AssemblyInfoInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.AssemblyInfo.cs
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.csproj.CoreCompileInputs.cache
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.dll
+C:\Users\hamid.mammadov\Desktop\P129NLayerArchitectura\P129NLayerArchitectura.Core\obj\Debug\netcoreapp3.1\P129NLayerArchitectura.Core.pdb
